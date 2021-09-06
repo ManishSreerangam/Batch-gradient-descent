@@ -1,7 +1,7 @@
 # MachineLearning_LinearRegression (Implementation without any pre-defined libraries)
 This task is part of weekly programming task for the subject titled "Machine Learning" 
 # Objective : 
-Goal of this assignment is  to develop a holistic understanding of linear regression (multiple linear regression) with the help of gradient descent
+Goal of this assignment is  to develop a holistic understanding of linear regression (multiple linear regression) with the help of gradient descent * refer to p_sheet1 for more information about our task
 # Programming language 
 Python **(without using numpy , pandas , scikit learn)**
 # Dataset
